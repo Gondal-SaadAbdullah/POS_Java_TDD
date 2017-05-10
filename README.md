@@ -10,3 +10,6 @@ This is a general-purpose POS system that can be implemented in small stores. It
 - Perform transactions and create a bill
 - Allow discount rules
 
+**High Level Development Architecture**
+
+![system_architecture](https://cloud.githubusercontent.com/assets/6848670/25902748/becc23d4-359a-11e7-9eac-628a88448748.png)
